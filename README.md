@@ -10,6 +10,8 @@ https://hub.docker.com/repository/docker/ericmjk/moveit_dual_fr3/general
 
 This package implements a dual-arm pick-and-handover demo: the right arm picks an object, passes it to the left arm, and the left arm places it at a target location. It also provides Python scripting utilities for joint-space and Cartesian motion control.
 
+https://github.com/user-attachments/assets/b8744b56-2205-4634-9227-7be38bd871b3
+
 ```
 Moveit_Dual_FR3/
 ├── dual_arm/           # Main ROS 2 package (C++ MTC demo + configuration)
